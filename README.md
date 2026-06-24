@@ -14,4 +14,4 @@ Python Backend Developer from Samara, Russia <br><br>- 🎓 2nd year CS student 
 ---
 [![](https://komarev.com/ghpvc/?username=Zeufo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 🌱 Currently learning: Docker, Go
+# 🌱 Currently learning: FastAPI, Docker, Go
