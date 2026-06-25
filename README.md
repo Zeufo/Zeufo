@@ -1,5 +1,6 @@
 # 💫 About Me:
-Python Backend Developer from Samara, Russia <br><br>- 🎓 2nd year CS student at **SamGTU** · IAIT Institute · IIT Department<br>- 🏆 Bronze Medalist — **[Samara Region Product Programming Championship 2026](https://github.com/NeuroBreaker/DecisionHub)**- 🤖 Built a **[Telegram schedule bot](https://github.com/Zeufo/Samgtu-new)** for SamGTU students (100+ active users) 💡 Fan of clean code: SOLID, DRY principles<br>- 📫 Open to internships and junior backend positions
+Python Backend Developer from Samara, Russia <br><br>- 🎓 2nd year CS student at **SamGTU** · IAIT Institute · IIT Department<br>- 🏆 Bronze Medalist — **[Samara Region Product Programming Championship 2026](https://github.com/NeuroBreaker/DecisionHub)**
+- 🤖 Built a **[Telegram schedule bot](https://github.com/Zeufo/Samgtu-new)** for SamGTU students (100+ active users) 💡 Fan of clean code: SOLID, DRY principles<br>- 📫 Open to internships and junior backend positions
 
 
 
