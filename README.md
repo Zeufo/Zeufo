@@ -1,8 +1,8 @@
 # 💫 About Me:
 Python Backend Developer from Samara, Russia
 
-- 🎓 2nd year student at **SamGTU** · IAIT Institute · Information-Measuring Technology Dept.
-- 💡 Fan of clean code: SOLID, DRY principles
+- 🎓 2nd year student at **SamGTU** · IAIT (Institute) · Information-Measuring Technology Dept.
+- 💡 Fan of clean code: SOLID, KISS, DRY principles
 - 📫 Open to internships and junior backend positions
 
 ## 🏆 Achievements
