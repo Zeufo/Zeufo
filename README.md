@@ -1,13 +1,17 @@
 # 💫 About Me:
 Python Backend Developer from Samara, Russia
 
-- 🎓 2nd year CS student at **SamGTU** · IAIT Institute · IIT Department
-- 🏆 Bronze Medalist — **[Samara Region Product Programming Championship 2026](https://github.com/NeuroBreaker/DecisionHub)**
-- 🤖 Built a **[Telegram schedule bot](https://github.com/Zeufo/Samgtu-new)** for SamGTU students (100+ active users)
+- 🎓 2nd year student at **SamGTU** · IAIT Institute · Information-Measuring Technology Dept.
 - 💡 Fan of clean code: SOLID, DRY principles
 - 📫 Open to internships and junior backend positions
 
+## 🏆 Achievements
+- Bronze Medalist — **[Samara Region Product Programming Championship 2026](https://github.com/NeuroBreaker/DecisionHub)**
+- Certified — "AI & Generative Models" course, T-Education (2026)
 
+## 🚀 Projects
+- 🤖 **[Telegram schedule bot](https://github.com/Zeufo/Samgtu-new)** — SamGTU schedule bot for students (100+ active users)
+- 🗞️ **Lighthouse** — self-hosted news aggregator with LLM-based clustering, async pipeline & job scheduling
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Zeufo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:p.yudin.work@gmail.com) 
@@ -19,4 +23,4 @@ Python Backend Developer from Samara, Russia
 ![](https://streak-stats.demolab.com/?user=Zeufo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Zeufo&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-# 🌱 Currently learning: FastAPI, Docker, Go
+# 🌱 Currently learning: Go, AI agents & LLM tooling
