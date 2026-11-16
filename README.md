@@ -10,7 +10,7 @@ Python Backend Developer from Samara, Russia
 - Certified — "AI & Generative Models" course, T-Education (2026)
 
 ## 🚀 Projects
-- 🤖 **[Telegram schedule bot](https://github.com/Zeufo/Samgtu-new)** — SamGTU schedule bot for students (100+ active users)
+- 🤖 **[Telegram schedule bot](https://github.com/Zeufo/Samgtu-new)** — SamGTU schedule bot for students (1000+ active users)
 - 🗞️ **Lighthouse** — self-hosted news aggregator with LLM-based clustering, async pipeline & job scheduling
 
 ## 🌐 Socials:
