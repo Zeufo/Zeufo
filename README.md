@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Pavel 👋
+# Hi, I'm Paul 👋
 
 **Python Backend Developer** · async services, queues, load testing
 2nd-year student at SamGTU · Samara, Russia
