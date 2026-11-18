@@ -77,7 +77,7 @@ Team project built in 48 hours; I developed the backend.
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ_(aio__pika)-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
 **Load & testing**
-![Locust](https://img.shields.io/badge/Locust-3.5?style=flat-square&color=2f855a)
+![Locust](https://img.shields.io/badge/Locust-load_testing-2f855a?style=flat-square)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![HTTPX](https://img.shields.io/badge/HTTPX-555?style=flat-square)
 ![Allure](https://img.shields.io/badge/Allure-8A2BE2?style=flat-square)
